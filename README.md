@@ -21,7 +21,7 @@
   
   
   ### So where am I now ?
-  I began a 5 months bootcamp in .NET. Then, I plan to develop my expertise my acquiring the title of app designer through a 1 year course paralleled with an internship<br><br>
+  I begun a 5 months bootcamp in .NET. Then, I plan to develop my expertise my acquiring the title of app designer through a 1 year course paralleled with an internship<br><br>
   
 
 
