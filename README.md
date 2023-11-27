@@ -1,17 +1,29 @@
+  [js]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+  [c#]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+  [.NET]: https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+  [postgreSQL]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+  [node.js]:https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+  [nest.js]: https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+  [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
 <div align="center">
 
   # Rémi Debruyne
   ### Back-end Developer .Net
   
   <a target="_blank" href="https://www.linkedin.com/in/r%C3%A9mi-debruyne-827663151/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  
+  ![js][js]
+  ![c#][c#] 
+  ![.NET][.NET]
+  ![postgreSQL][postgreSQL]
+  ![node.js][node.js]
+  ![nest.js][nest.js]
+  ![react.js][react.js]
+
+
+
+
+
   ## Who am I ?
   If you wish to skip the presentation and want do dive directly to the <a href="#">juicy stuff</a>. Otherwise...
   
@@ -31,8 +43,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RemiDebruyne&theme=ambient_gradient&show=reviews&hide=contribs,issues&show_icons=true"/> <br><br>
   
   #### My stacks
-  <img src="/images/tech-stack-lightmode.jpg">
-  
+  <!-- <img src="/images/tech-stack-lightmode.jpg"> -->
+
+  |        Skill             |      Introduction      | Occasional Use | Regularly use|
+  |:------------------------:|:----------------------:| :------------: | :----------: |
+  |![js][js]                 |                        |                |       ✅     |
+  |![c#][c#]                 |                        |                |       ✅     |
+  |![.NET][.NET]             |                        |                |       ✅     |
+  |![postgreSQL][postgreSQL] |                        |                |       ✅     |
+  |![node.js][node.js]       |                        |       ✅       |              |
+  |![nest.js][nest.js]       |                        |       ✅       |              |
+  |![react.js][react.js]     |           ✅           |                |              |
+          
   #### My personal project
  I am building my own manga reading app. The project is currently in the design part of the process, figuring out the functional and technical specification.
   
@@ -49,3 +71,4 @@
   You can click the Preview link to take a look at your changes.
   --->
 </div>
+
