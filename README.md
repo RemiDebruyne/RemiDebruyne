@@ -54,7 +54,9 @@
   |![node.js][node.js]       |                        |       ✅       |              |
   |![nest.js][nest.js]       |                        |       ✅       |              |
   |![react.js][react.js]     |           ✅           |                |              |
-          
+
+  <br>
+
   #### My personal project
  I am building my own manga reading app. The project is currently in the design part of the process, figuring out the functional and technical specification.
   
