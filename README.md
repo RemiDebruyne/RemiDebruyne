@@ -15,6 +15,7 @@
   
   <a target="_blank" href="https://www.linkedin.com/in/r%C3%A9mi-debruyne-827663151/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   ![js][js]
+  ![ts][ts]
   ![c#][c#] 
   ![.NET][.NET]
   ![postgreSQL][postgreSQL]
@@ -50,6 +51,7 @@
   |        Skill             |      Introduction      | Occasional Use | Regularly use|
   |:------------------------:|:----------------------:| :------------: | :----------: |
   |![js][js]                 |                        |                |       ✅     |
+  |![ts][ts]                 |                        |                |       ✅     |
   |![c#][c#]                 |                        |                |       ✅     |
   |![.NET][.NET]             |                        |                |       ✅     |
   |![postgreSQL][postgreSQL] |                        |                |       ✅     |
