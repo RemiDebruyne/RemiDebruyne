@@ -7,6 +7,7 @@
   [nest.js]: https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
   [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
   [Aws]: https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
+  [blazor]: https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white
 
 <div align="center">
 
@@ -18,6 +19,7 @@
   ![ts][ts]
   ![c#][c#] 
   ![.NET][.NET]
+  ![blazor][blazor]
   ![postgreSQL][postgreSQL]
   ![node.js][node.js]
   ![nest.js][nest.js]
@@ -54,6 +56,7 @@
   |![ts][ts]                 |                        |                |       ✅     |
   |![c#][c#]                 |                        |                |       ✅     |
   |![.NET][.NET]             |                        |                |       ✅     |
+  |![blazor][blazor]         |                        |                |       ✅     |
   |![postgreSQL][postgreSQL] |                        |                |       ✅     |
   |![node.js][node.js]       |                        |       ✅       |              |
   |![nest.js][nest.js]       |                        |       ✅       |              |
